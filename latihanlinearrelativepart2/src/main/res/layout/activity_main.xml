@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <LinearLayout
+       android:id="@+id/forminput"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginHorizontal="15dp"
+       android:orientation="vertical">
+
+       //judulnama
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:layout_margin="40dp"
+           android:text="@string/nama"
+           android:textSize="25sp"/>
+
+       //labelbuat nama
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/lbnama"
+           android:layout_marginBottom="3dp"/>
+
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/nama"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/lbalamat"/>
+
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/alamat"
+           />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/lbkampus"/>
+
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/kampus"/>
+
+   </LinearLayout>
++
+    <LinearLayout
+        android:id="@+id/foto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/forminput"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="100dp"
+            android:src="@drawable/akko"
+            android:layout_marginHorizontal="15dp"/>
+
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="100dp"
+            android:src="@drawable/wajah"
+            android:layout_marginHorizontal="15dp"/>
+
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="100dp"
+            android:src="@drawable/akko"
+            android:layout_marginHorizontal="15dp"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/foto"
+        android:gravity="center"
+        android:layout_marginHorizontal="5dp">
+
+        <Button
+            android:id="@+id/btnback"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="5dp"
+            android:text="@string/back"/>
+
+        <Button
+            android:id="@+id/btnnext"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_toRightOf="@id/btnback"
+            android:layout_marginHorizontal="5dp"
+            android:text="@string/next"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

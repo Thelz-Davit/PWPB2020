@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">latihanlinearrelativepart2</string>
+    <string name="lbnama">Nama</string>
+    <string name="nama">Davitra Eka Sanusi</string>
+    <string name="lbalamat">Alamat</string>
+    <string name="alamat">Cibaduyut</string>
+    <string name="lbkampus">Kampus</string>
+    <string name="kampus">SMKN 4 Bandung</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
