@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@android:color/holo_blue_bright">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:src="@drawable/wwf"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/name"
+            android:paddingBottom="15dp"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/inputName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"/>
+
+        <EditText
+            android:id="@+id/inputPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:layout_below="@id/inputName"/>
+
+        <EditText
+            android:id="@+id/rePass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Re-Enter Password"
+            android:layout_below="@id/inputPass"/>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_below="@id/rePass"
+            android:layout_centerHorizontal="true"
+            android:text="Daftar"/>
+    </RelativeLayout>
+
+</LinearLayout>

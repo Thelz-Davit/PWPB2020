@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">latihanlinearrelativepart2point1</string>
+    <string name="name">Davitra Eka Sanusi</string>
+    <string name="inputName">Name</string>
+    <string name="inputPass">Password</string>
+    <string name="rePass">Re enter Password</string>
+    <string name="button">Re enter Password</string>
+</resources>
