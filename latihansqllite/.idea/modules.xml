@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1334664246/TugasAndroidPwpb.iml" filepath="$PROJECT_DIR$/.idea/modules/-1334664246/TugasAndroidPwpb.iml" group="TugasAndroidPwpb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/731809372/app.iml" filepath="$PROJECT_DIR$/.idea/modules/731809372/app.iml" group="TugasAndroidPwpb/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-727658246/belajarintent.iml" filepath="$PROJECT_DIR$/.idea/modules/-727658246/belajarintent.iml" group="TugasAndroidPwpb/belajarintent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1835655490/constraint.iml" filepath="$PROJECT_DIR$/.idea/modules/1835655490/constraint.iml" group="TugasAndroidPwpb/constraint" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/508135321/customlistview.iml" filepath="$PROJECT_DIR$/.idea/modules/508135321/customlistview.iml" group="TugasAndroidPwpb/customlistview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/184238837/fragment.iml" filepath="$PROJECT_DIR$/.idea/modules/184238837/fragment.iml" group="TugasAndroidPwpb/fragment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1058488302/framelayout.iml" filepath="$PROJECT_DIR$/.idea/modules/-1058488302/framelayout.iml" group="TugasAndroidPwpb/framelayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1546601056/framelayout2.iml" filepath="$PROJECT_DIR$/.idea/modules/1546601056/framelayout2.iml" group="TugasAndroidPwpb/framelayout2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/417538904/jumlahbilangan.iml" filepath="$PROJECT_DIR$/.idea/modules/417538904/jumlahbilangan.iml" group="TugasAndroidPwpb/jumlahbilangan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1413992578/latihanintent.iml" filepath="$PROJECT_DIR$/.idea/modules/1413992578/latihanintent.iml" group="TugasAndroidPwpb/latihanintent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/848949237/latihanlinearlayout.iml" filepath="$PROJECT_DIR$/.idea/modules/848949237/latihanlinearlayout.iml" group="TugasAndroidPwpb/latihanlinearlayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/547622621/latihanlinearlayout2.iml" filepath="$PROJECT_DIR$/.idea/modules/547622621/latihanlinearlayout2.iml" group="TugasAndroidPwpb/latihanlinearlayout2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-691920856/latihanlinearrelativepart2.iml" filepath="$PROJECT_DIR$/.idea/modules/-691920856/latihanlinearrelativepart2.iml" group="TugasAndroidPwpb/latihanlinearrelativepart2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/235912905/latihanlinearrelativepart2point1.iml" filepath="$PROJECT_DIR$/.idea/modules/235912905/latihanlinearrelativepart2point1.iml" group="TugasAndroidPwpb/latihanlinearrelativepart2point1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/718596343/latihanparceable.iml" filepath="$PROJECT_DIR$/.idea/modules/718596343/latihanparceable.iml" group="TugasAndroidPwpb/latihanparceable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-661913380/latihanrelativelayout.iml" filepath="$PROJECT_DIR$/.idea/modules/-661913380/latihanrelativelayout.iml" group="TugasAndroidPwpb/latihanrelativelayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/latihansqllite.iml" filepath="$PROJECT_DIR$/.idea/modules/latihansqllite.iml" group="TugasAndroidPwpb/latihansqllite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1113797400/listview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1113797400/listview.iml" group="TugasAndroidPwpb/listview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-655538765/tablelayout.iml" filepath="$PROJECT_DIR$/.idea/modules/-655538765/tablelayout.iml" group="TugasAndroidPwpb/tablelayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1872119155/tugaslatihanlinearrelativelayout.iml" filepath="$PROJECT_DIR$/.idea/modules/1872119155/tugaslatihanlinearrelativelayout.iml" group="TugasAndroidPwpb/tugaslatihanlinearrelativelayout" />
+    </modules>
+  </component>
+</project>
