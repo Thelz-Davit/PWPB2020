@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../belajarintent" />
+            <option value="$PROJECT_DIR$/../constraint" />
+            <option value="$PROJECT_DIR$/../customlistview" />
+            <option value="$PROJECT_DIR$/../fragment" />
+            <option value="$PROJECT_DIR$/../framelayout" />
+            <option value="$PROJECT_DIR$/../framelayout2" />
+            <option value="$PROJECT_DIR$/../jumlahbilangan" />
+            <option value="$PROJECT_DIR$/../latihanintent" />
+            <option value="$PROJECT_DIR$/../latihanlinearlayout" />
+            <option value="$PROJECT_DIR$/../latihanlinearlayout2" />
+            <option value="$PROJECT_DIR$/../latihanlinearrelativepart2" />
+            <option value="$PROJECT_DIR$/../latihanlinearrelativepart2point1" />
+            <option value="$PROJECT_DIR$/../latihanparceable" />
+            <option value="$PROJECT_DIR$/../latihanrelativelayout" />
+            <option value="$PROJECT_DIR$/../latihansqllite" />
+            <option value="$PROJECT_DIR$/../listview" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../tablelayout" />
+            <option value="$PROJECT_DIR$/../tugaslatihanlinearrelativelayout" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
